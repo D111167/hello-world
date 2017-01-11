@@ -1,2 +1,5 @@
 # hello-world
-just another respository
+
+Hi humans!
+
+This is first time for me to edit.
